@@ -1,1 +1,1 @@
-# Sudoku_solver
+# python and c++ based Sudoku_solver 
